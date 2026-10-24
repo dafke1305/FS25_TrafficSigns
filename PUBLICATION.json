@@ -1,9 +1,16 @@
 {
-  "role": "public-support-only",
-  "mod": "Traffic Signs",
-  "kingmods_url": "https://www.kingmods.net/en/fs25/mods/83064/traffic-signs",
-  "kingmods_listed_version": "V1.0.0.1",
-  "checked": "2026-10-24",
-  "source_code_visibility": "private",
-  "contains_mod_source": false
+  "name": "Traffic Signs",
+  "repository": "dafke1305/FS25_TrafficSigns",
+  "native_version": "1.0.0.1",
+  "tag": "v1.0.0.1",
+  "file": "FS25_TrafficSigns.zip",
+  "sha256": "22d3dd29c0ecd4bc18e43467e3fa8ab26d1cc9e08c409656cf10d5adcaa3be50",
+  "bytes": 1062879,
+  "kingmods": "https://www.kingmods.net/en/fs25/mods/83064/traffic-signs",
+  "crc": "passed",
+  "source_changes": "none",
+  "prerelease": false,
+  "policy": "support and public release ZIPs of versions already on KingMods only",
+  "source": "author local release archive",
+  "download": "https://github.com/dafke1305/FS25_TrafficSigns/releases/download/v1.0.0.1/FS25_TrafficSigns.zip"
 }
